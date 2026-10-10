@@ -1,0 +1,6 @@
+{
+  "name": "Playbook $1M+: Sports Tech Venture Engine",
+  "description": "High-margin sports tech venture blueprints, live financial simulators, real-time odds & highlight prototypes, and AI business validator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
